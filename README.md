@@ -19,15 +19,19 @@ Installation
 It's highly recommended to create a virtual environment to isolate project dependencies and avoid conflicts with other Python projects on your system. Here's how to create one using venv (available in Python 3.3+):
 
 #CMD
+
 python -m venv venv
+
 #Activate the virtual environment (commands differ slightly based on your operating system):
 
 #Windows: venv\Scripts\activate.bat
+
 #Install dependencies:
 
 Navigate to your project directory and install the required packages from the requirements.txt file using pip:
 
 #CMD
+
 pip install -r requirements.txt
 
 #Running the project
@@ -37,6 +41,7 @@ pip install -r requirements.txt
 With the virtual environment activated, run the following command to start the Django development server:
 
 #CMD
+
 python manage.py runserver
 
 This will typically start the server at http://127.0.0.1:8000/ by default. You can access your project in a web browser.
@@ -50,8 +55,12 @@ The project includes a tests.py file containing unit tests for its functionaliti
 From your project directory, use the following command to execute the tests:
 
 #CMD
+
 python manage.py test
 
 This will provide an overview of passed and failed tests, if any.
 
 #Sample Image
+
+#Login Page
+![image](https://github.com/user-attachments/assets/f0a8fc79-8430-4530-91b0-d53188f907ba)
