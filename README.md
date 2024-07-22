@@ -63,4 +63,20 @@ This will provide an overview of passed and failed tests, if any.
 #Sample Image
 
 #Login Page
+
 ![image](https://github.com/user-attachments/assets/f0a8fc79-8430-4530-91b0-d53188f907ba)
+
+#USER Page
+
+![image](https://github.com/user-attachments/assets/735b5146-1387-49b7-ab98-bb4adfeab3ca)
+
+#Upload Data
+
+![image](https://github.com/user-attachments/assets/6b2a889e-e477-4257-828b-7a63e428c50b)
+
+#Query Builder
+
+![image](https://github.com/user-attachments/assets/2cc7d272-d5a0-4b9f-a8d6-d9d0bfbbfae5)
+
+
+
