@@ -1,0 +1,67 @@
+/* General body styles */
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+}
+
+/* Header container */
+.header-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #333;
+    color: white;
+    padding: 10px 20px;
+}
+
+/* Header left - icon */
+.header-left .header-icon {
+    width: 40px;
+    height: 40px;
+}
+
+/* Header center - options */
+.header-center {
+    flex-grow: 1;
+    text-align: center;
+}
+
+.header-center a {
+    color: white;
+    text-decoration: none;
+    margin: 0 15px;
+    font-weight: bold;
+}
+
+.header-center a:hover {
+    text-decoration: underline;
+}
+
+/* Header right - logout button */
+.header-right a {
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.header-right a:hover {
+    text-decoration: underline;
+}
+
+
+.form-container {
+    background-color: #f8f9fa;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    width: 100%;
+    max-width: 400px;
+}
+
+.form-container h2{
+    text-align: center;
+}
+
+.login-form-btn{
+    text-align: center;
+}
