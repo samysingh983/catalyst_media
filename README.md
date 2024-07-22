@@ -19,7 +19,6 @@ It's highly recommended to create a virtual environment to isolate project depen
 
 #CMD
 python -m venv venv
-
 #Activate the virtual environment (commands differ slightly based on your operating system):
 
 #Windows: venv\Scripts\activate.bat
