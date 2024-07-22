@@ -18,23 +18,19 @@ Python (version 3 or later): Download and install Python from the official websi
 
 Virtual Environment (Highly Recommended): Isolate your project's dependencies from other Python projects on your system using venv. Here's a basic setup for creating a virtual environment:
 
-Bash
 python -m venv venv
-Use code with caution.
 
 Activate the virtual environment (commands differ based on your operating system):
 
 Windows: venv\Scripts\activate.bat
-Linux/macOS: source venv/bin/activate
+
 2. Installation:
 
 Navigate to your project directory.
 
 Install the required libraries listed in the requirements.txt file using pip:
 
-Bash
 pip install -r requirements.txt
-Use code with caution.
 
 3. Setting Up the Database:
 
@@ -45,9 +41,8 @@ Ensure your virtual environment is activated.
 
 Start the development server using:
 
-Bash
 python manage.py runserver
-Use code with caution.
+
 
 This typically starts the server at http://127.0.0.1:8000/. You can access your application in your web browser.
 
@@ -66,9 +61,8 @@ Testing
 
 The project includes tests.py files to ensure the application performs as expected. Run the tests using:
 
-Bash
 python manage.py test
-Use code with caution.
+
 
 This verifies functionality and helps maintain code quality.
 
