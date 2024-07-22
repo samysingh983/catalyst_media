@@ -10,9 +10,13 @@ Once the file is uploaded, you must update the database with the contents of the
 #Requirements
 
 Python (version 3 or later) - https://www.python.org/downloads/
+
 Django (version 3.x/4.x or later) - https://docs.djangoproject.com/en/5.0/
+
 Postgres SQL - https://www.postgresql.org/docs/
+
 Installation instructions for each library can be found on their respective documentation websites.
+
 Installation
 
 #Create a virtual environment:
